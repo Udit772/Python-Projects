@@ -1,1 +1,1 @@
-Projects for pyhton development using flasks,django and basic libraries.
+Projects for python development using flasks,django and basic libraries.
