@@ -11,4 +11,5 @@ def guess(x):
             print('Sorry, guess again. Too high.')
 
     print(f'Yay, congrats. You have guessed the number {random_number} correctly!! ')
-    7
+
+guess(10)
